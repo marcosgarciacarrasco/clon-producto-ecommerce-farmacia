@@ -1,0 +1,7 @@
+# Archivos comunes a ignorar
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.ipynb_checkpoints/
+node_modules/

@@ -1,0 +1,29 @@
+{
+  "reseñas": [
+    {
+      "usuario": "Laura M.",
+      "texto": "Me ayudó mucho con el cansancio. Tomo una diaria y noto la diferencia.",
+      "rating": 5
+    },
+    {
+      "usuario": "Carlos G.",
+      "texto": "Buen producto, aunque preferiría que fueran cápsulas blandas.",
+      "rating": 4
+    },
+    {
+      "usuario": "Patricia S.",
+      "texto": "Sabor agradable (efervescente) y fácil de disolver. Lo recomiendo.",
+      "rating": 5
+    },
+    {
+      "usuario": "Javier T.",
+      "texto": "La entrega fue rápida y el empaque venía perfecto.",
+      "rating": 4
+    },
+    {
+      "usuario": "Ana R.",
+      "texto": "Lo uso como complemento durante el invierno. Muy efectivo.",
+      "rating": 5
+    }
+  ]
+}

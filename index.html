@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vitamina C Plus - Clon E-commerce Farmacia</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="product">
+      <div class="image-section">
+        <img id="productImage" src="https://via.placeholder.com/400x400.png?text=Vitamina+C+500mg" alt="Vitamina C Plus" />
+      </div>
+      <div class="details-section">
+        <h1>Vitamina C Plus 500mg</h1>
+        <p class="price">€12.95</p>
+        <p class="description">
+          Suplemento alimenticio de alta absorción. Refuerza el sistema inmune y reduce el cansancio. 60 cápsulas por envase.
+        </p>
+
+        <label for="formatoSelect">Formato:</label>
+        <select id="formatoSelect">
+          <option value="tabletas">Tabletas</option>
+          <option value="efervescente">Efervescente</option>
+          <option value="gomitas">Gomitas</option>
+        </select>
+
+        <button class="add-to-cart">Agregar al carrito</button>
+
+        <div class="reviews">
+          <h3>Reseñas de clientes</h3>
+          <ul id="reviewsList"></ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="data.json" type="application/json"></script>
+  <script src="product.js"></script>
+</body>
+</html>
