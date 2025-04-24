@@ -1,9 +1,10 @@
 // Formatos e imágenes simuladas
 const imagenes = {
-    tabletas: "https://via.placeholder.com/400x400.png?text=Vitamina+C+Tabletas",
-    efervescente: "https://via.placeholder.com/400x400.png?text=Vitamina+C+Efervescente",
-    gomitas: "https://via.placeholder.com/400x400.png?text=Vitamina+C+Gomitas"
+    tabletas: "https://images.unsplash.com/photo-1588776814546-f1d1fdfc48b0?auto=format&fit=crop&w=400&q=80",
+    efervescente: "https://images.unsplash.com/photo-1603398938378-d2051ccefa5f?auto=format&fit=crop&w=400&q=80",
+    gomitas: "https://images.unsplash.com/photo-1611175694987-2f87112fcaa1?auto=format&fit=crop&w=400&q=80"
   };
+  
   
   const formatoSelect = document.getElementById("formatoSelect");
   const productImage = document.getElementById("productImage");
