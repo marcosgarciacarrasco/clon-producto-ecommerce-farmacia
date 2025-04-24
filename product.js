@@ -1,9 +1,10 @@
 // Formatos e imágenes simuladas
 const imagenes = {
-    tabletas: "https://images.unsplash.com/photo-1588776814546-f1d1fdfc48b0?auto=format&fit=crop&w=400&q=80",
-    efervescente: "https://images.unsplash.com/photo-1603398938378-d2051ccefa5f?auto=format&fit=crop&w=400&q=80",
-    gomitas: "https://images.unsplash.com/photo-1611175694987-2f87112fcaa1?auto=format&fit=crop&w=400&q=80"
+    tabletas: "https://images.unsplash.com/photo-1588776814546-f1d1fdfc48b0?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+    efervescente: "https://images.unsplash.com/photo-1603398938378-d2051ccefa5f?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+    gomitas: "https://images.unsplash.com/photo-1611175694987-2f87112fcaa1?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
   };
+  
   
   
   const formatoSelect = document.getElementById("formatoSelect");
